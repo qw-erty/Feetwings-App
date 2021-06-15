@@ -6,11 +6,11 @@
 
 Helping diabetics make better decisions.
 
-![Issues](https://img.shields.io/github/issues/Feetwings/Frontend)
-![Pull Requests](https://img.shields.io/github/issues-pr/Feetwings/Frontend)
-![Forks](https://img.shields.io/github/forks/Feetwings/Frontend)
-![Stars](https://img.shields.io/github/stars/Feetwings/Frontend)
-![License](https://img.shields.io/github/license/Feetwings/Frontend)
+![Issues](https://img.shields.io/github/issues/Feetwings/Feetwings-App)
+![Pull Requests](https://img.shields.io/github/issues-pr/Feetwings/Feetwings-App)
+![Forks](https://img.shields.io/github/forks/Feetwings/Feetwings-App)
+![Stars](https://img.shields.io/github/stars/Feetwings/Feetwings-App)
+![License](https://img.shields.io/github/license/Feetwings/Feetwings-App)
 
 </div>
 <br>
@@ -30,8 +30,8 @@ Your major work as an app developer would be hardware and software integration, 
 <table>
 	 <tr>
 		 <td>
-        <a href="https://github.com/Feetwings/Frontend/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=Feetwings/Frontend" />
+        <a href="https://github.com/Feetwings/Feetwings-App/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=Feetwings/Feetwings-App" />
        </a>
 		 </td>
   </tr>
