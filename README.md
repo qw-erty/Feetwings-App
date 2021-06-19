@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Feetwings/Frontend/main/feetwings.png" alt="hello" width="100" /></p>
+<p align="center"> <img src="feetwings.png" alt="hello" width="100" /></p>
 
 # FeetWings
 
